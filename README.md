@@ -18,7 +18,7 @@ You can get in touch with me by email at dongeun.paeng@gmail.com or [LinkedIn](h
 
 ### Projects
 - iOS/Android Application ‘[누구게](https://apps.apple.com/kr/app/%EB%88%84%EA%B5%AC%EA%B2%8C-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%9D%B5%EB%AA%85-%EB%AC%B8%EC%9E%90/id1556761670)’: React Native, React.js, Node.js (w/ 500+ users)
-- Personal [blog](https://dongeunpaeng.com): React.js(TypeScript), Node.js(TypeScript)
+- Personal [blog](https://dongeunpaeng.com): React.js(TypeScript), Node.js(TypeScript) -> Rebuilding server with Spring Boot
 - Freelancing (length/team size/role):
     - E-commerce (6mo/3/project manager)
         - Tech stack: Django, Postgres, ReactJS, TablePlus(DB client)
