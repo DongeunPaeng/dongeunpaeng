@@ -39,3 +39,6 @@ You can get in touch with me by email at dongeun.paeng@gmail.com or [LinkedIn](h
 
 #### 한두번
 [![My Skills](https://skillicons.dev/icons?i=postgres,graphql,mongodb,py,java,spring,selenium,flutter,githubactions,elixir&perline=3)](https://skillicons.dev)
+
+### Stats
+[![Dongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeunpaeng)](https://github.com/anuraghazra/github-readme-stats)
